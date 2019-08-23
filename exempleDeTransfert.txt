@@ -1,1 +1,1 @@
-Si ce message s'affiche alors le trasnfert aura fonctionné !
+Si ce message s'affiche alors le transfert aura fonctionné !
