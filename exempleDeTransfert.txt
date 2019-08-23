@@ -1,1 +1,3 @@
 Si ce message s'affiche alors le transfert aura fonctionné !
+
+Quoi une modification venue de GitHub ? Vite ! Je dois la rapatrier sur Git.
