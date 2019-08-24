@@ -1,3 +1,3 @@
-Si ce message s'affiche alors le transfert aura fonctionné !
+Ce fichier est un témoin des capacités de Git et de GitHub a géré les différentes versions, y compris parallèles, qui peuvent exister d'un même fichier.
 
-Quoi une modification venue de GitHub ? Vite ! Je dois la rapatrier sur Git.
+Pour améliorer la qualité de ces explications j'ai ainsi créé une branche locale "meilleurTexte" qu'il me faudra intégrer dans une contribution avant de la pousser sur le dépôt GitHub.
